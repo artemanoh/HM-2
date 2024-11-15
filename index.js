@@ -30,8 +30,8 @@ console.log(Number.parseFloat(stringOfInt));
 const rootOfNumber = 225;
 console.log(Math.sqrt(rootOfNumber));
 
-const integer = 856;
-let stringOfNumbers = "50384";
+const integer = 576;
+let stringOfNumbers = "374";
 stringOfNumbers = Number.parseInt(stringOfNumbers);
 
 console.log(integer);
